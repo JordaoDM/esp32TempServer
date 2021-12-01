@@ -5,7 +5,7 @@ const app = express();
 const port = 5000;
 
 app.get("/", mainHandler);
-app.get("/tmep", tempHandler);
+app.get("/temp", tempHandler);
 
 var absolutePathStatic = __dirname + "/static"; //define absolute path to the static folder
 app.use("/static", express.static(absolutePathStatic)); //serves static files
