@@ -2,13 +2,13 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/JordaoDM/esp32TempServer?style=for-the-badge)
 
-> A Node.js API that deliver real time temperature and humidity data provided from an ESP32 with an DHT11 sensor.
+> A Node.js API that deliver real time temperature and humidity data provided from an ESP32 with a DHT11 sensor.
 
 ### 📝 TODO
-[] Add database
-[] Create new front-end
-[] Show graph with older readings
-[] Return timestamp with the readings
+- [ ] Add database
+- [ ] Create new front-end
+- [ ] Show graph with older readings
+- [ ] Return timestamp with the readings
 
 ## 🌡️ How to use
 
