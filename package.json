@@ -9,7 +9,10 @@
   "author": "JordaoDM",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "express": "^4.17.1",
+    "mongodb": "^4.3.1",
+    "node-cron": "^3.0.0",
     "request": "^2.88.2"
   }
 }
